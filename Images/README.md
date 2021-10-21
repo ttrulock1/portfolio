@@ -1,9 +1,0 @@
-Okay after dealing with the hurricane and finally getting power, I spent five days completing my first single page porfolio. Also note that I had been building some of a portfolio since the beginning of class and had some previous experience in web design when I launched Georgia State University online newpaper.
-
-I want to emphasize that first I used all of thee following: flexbox, media queries, and especially CSS variables. Everything that was requested in the grading and acceptance criterea, has been met or exceeded.
-
-Two things I want to bring to note: First, not only does it meet  the mock-up functionality, it at points goes beyond what is requested. Second this being my personal portfolio website, I made some stylistic choices that I felt I would work better when I finally was ready to go into the job market, while still maintaining true to all the element required in the assignment. The result is something both impressive, using elements that I learn in the bootcamp and one or two that I had up my sleeve, and remincent of a 2013 website. In the end, both good and bad, but I am proud of it.
-
-Things accomplished: Website is fully functional, aka All links work, both scrolling down to other parts of the website as well as going to my e-mail and other websites such as github, etc., as well as deployed to the works in the "my work section." It fits various screens and devices. All the required sections, such as about me and my work, are there and a few more, such as services and an email and message link. I have descriptive comments, but I plan on really working on this in my third homework assignment. Name, photo, etc., all present. Everything requested has been completed.
-
-My end goal is to make this my website when I go out and get jobs, this is why I styled it this way, and any tips or comments are more than welcome. Thank you for reading this.
